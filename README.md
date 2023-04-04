@@ -1,6 +1,6 @@
 # docker-cellranger-arc
 
-Dockerized Cell Ranger ARC v2.0.0
+Dockerized Cell Ranger ARC v2.0.2
 
 ## Build Container Image
 
@@ -25,9 +25,9 @@ conda activate scing
 ## Usage
 
 ```
-$ docker run -it --rm cellranger-arc:2.0.0
+$ docker run -it --rm cellranger-arc:2.0.2
 
-cellranger-arc cellranger-arc-2.0.0
+cellranger-arc cellranger-arc-2.0.2
 Process 10x Genomics Chromium Single Cell Multiome ATAC + Gene Expression data
 
 USAGE:
